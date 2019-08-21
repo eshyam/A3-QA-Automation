@@ -1,0 +1,9 @@
+{
+  "browser":  "chrome",
+  "_browser":  "firefox",
+  "_browser":  "Ie",
+  "Qa": "https://test-portal.corecompete.com/#/",
+  "Production": "https://portal.corecompete.com/#/",
+  "url": "Qa"
+}
+

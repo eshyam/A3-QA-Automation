@@ -1,0 +1,13 @@
+{
+  "title": "Core Competes",
+  "username" : "shyam.emmadi@corecompete.com",
+  "passwd"    : "Core@123",
+  "db_monthtodate" : "Month To Date",
+  "db_costoptimm"   : "Cost Optimization",
+  "db_performanceaudit" : "Performance Audit",
+  "db_CIS Compliance"  : "CIS Compliance",
+  "db_Health Check" : "Health Check",
+  "db_Projected"  : "Projected",
+  "db_PerforOpt"  : "Performance Optimization",
+  "db_backup"     : "Backups"
+}

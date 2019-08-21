@@ -1,0 +1,16 @@
+{
+  "uid" : "inputEmail",
+  "pwd" : "inputPassword",
+  "signin" : "//button[@class='btn-fill']",
+  "help" : "//div[@id='help-icon-block-div']//img",
+  "close" : "//div[@class='close-block']",
+  "dash_monthtodate" : "//h3[contains(text(),'Month To Date')]",
+  "db_costoptimizatin" : "//h3[contains(text(),'Cost Optimization')]",
+  "db_performanceaudit":  "//h3[contains(text(),'Performance Audit')]",
+  "db_CIS Compliance": "//h3[contains(text(),'CIS Compliance')]",
+  "db_Health Check":"//h3[contains(text(),'Health Check')]",
+  "db_Projected": "//h3[contains(text(),'Projected')]",
+  "db_PerforOpt"  : "//h3[contains(text(),'Performance Optimization')]",
+  "db_backup"     : "//h3[contains(text(),'Backups')]"
+
+}
